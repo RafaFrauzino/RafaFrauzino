@@ -16,7 +16,7 @@ Estou sempre buscando melhorar minhas habilidades com projetos práticos e desaf
 
 ---
 
-### 🧠 Tecnologias que estou aprendendo
+### 🧠 Tecnologias que estou usando no dia a dia.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
