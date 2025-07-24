@@ -10,9 +10,13 @@
 
 ### 🚀 Sobre mim
 
-Atualmente estou iniciando meus conhecimentos em **JavaScript**. Já possuo uma boa base em **HTML** e **CSS**, criando interfaces responsivas e bem estruturadas.
+Sou apaixonado por tecnologia e atualmente estou focado em construir interfaces modernas, responsivas e acessíveis utilizando HTML, CSS e JavaScript.
 
-Estou sempre buscando melhorar minhas habilidades com projetos práticos e desafiadores.
+Tenho uma base sólida em estruturação de páginas com HTML5 e estilização com CSS3. Agora estou avançando meus estudos em JavaScript para desenvolver funcionalidades dinâmicas.
+
+Busco evoluir constantemente com projetos práticos e desafios reais que me ajudem a colocar os conhecimentos em prática.
+
+🎯 Objetivo atual: atuar como Desenvolvedor Front-End Júnior, seja em vagas CLT, estágio ou projetos freelancer.
 
 ---
 
