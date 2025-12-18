@@ -8,15 +8,16 @@
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e atualmente estou focado em construir interfaces modernas, responsivas e acessíveis utilizando HTML, CSS e JavaScript.
+Sou **Desenvolvedor Front-End em formação**, apaixonado por tecnologia e focado na criação de **interfaces modernas, responsivas, acessíveis e bem estruturadas**.
 
-Tenho uma base sólida em estruturação de páginas com HTML5 e estilização com CSS3. Agora estou avançando meus estudos em JavaScript para desenvolver funcionalidades dinâmicas.
+Possuo uma base sólida em **HTML5 e CSS3**, com foco em semântica, responsividade e boas práticas de layout. Atualmente, estou aprofundando meus estudos em **JavaScript**, desenvolvendo funcionalidades dinâmicas e interativas para aplicações web.
 
-Busco evoluir constantemente com projetos práticos e desafios reais que me ajudem a colocar os conhecimentos em prática.
+Além do Front-End, estou investindo fortemente em **fundamentos de infraestrutura**, estudando **Linux, redes e conceitos iniciais de Cloud Computing**. Acredito que compreender o funcionamento das aplicações em ambientes reais (sistemas, servidores e redes) me torna um desenvolvedor mais completo e preparado para o mercado.
 
-🎯 Objetivo atual: atuar como Desenvolvedor Front-End Júnior, seja em vagas CLT, estágio ou projetos freelancer.
+🎯 **Objetivo atual:** atuar como **Desenvolvedor Front-End Júnior**, em vagas CLT, estágio ou projetos freelancer, mantendo aprendizado contínuo e evolução técnica.
+
 
 ---
 
@@ -25,7 +26,11 @@ Busco evoluir constantemente com projetos práticos e desafios reais que me ajud
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🐧 Infraestrutura & Estudos
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
 
 ---
 
