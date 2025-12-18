@@ -1,8 +1,8 @@
 <h1 align="center">Olá! 👋 Me chamo Rafael Frauzino</h1>
 
 <p align="center">
-  🌐 Desenvolvedor Front-End em formação<br>
-  💻 HTML | CSS | JavaScript (aprendendo)<br>
+  🌐 Front-End Developer | HTML | CSS | JavaScript | Linux & Networking | Cloud Student
+
   📍 Brasil
 </p>
 
