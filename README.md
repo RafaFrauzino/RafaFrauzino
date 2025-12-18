@@ -1,10 +1,25 @@
-<h1 align="center">Olá! 👋 Me chamo Rafael Frauzino</h1>
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-2ea44f?style=for-the-badge">
+  </a>
+  <a href="./README-en.md">
+    <img src="https://img.shields.io/badge/Language-EN--US-0969da?style=for-the-badge">
+  </a>
+</p>
+
+<h1 align="center">Front-End Developer</h1>
 
 <p align="center">
-  🌐 Front-End Developer | HTML | CSS | JavaScript | Linux & Networking | Cloud Student
-
-  📍 Brasil
+  HTML | CSS | JavaScript | React <br>
+  Linux • Networking • Cloud Computing (studying)
 </p>
+
+<p align="center">
+  📍 Brazil
+</p>
+
+---
+
 
 ---
 
